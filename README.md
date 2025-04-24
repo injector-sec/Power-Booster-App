@@ -14,10 +14,16 @@ https://youtube.com/shorts/jnCSNSYuQUw?si=mwnIUgmTtDGjZXhF
 1. **Clone the Repository**
 2. **Compile Server and Client**
 3. **Run Server and then client**
+
 ## Demonstration
+
 **Solar GUI Server**
+
 ![image](https://github.com/user-attachments/assets/b3d16c0f-00fb-4b18-86f8-497658a6fbc9)
+
+
 **Solar Client**
+
 ![image](https://github.com/user-attachments/assets/9b7ff260-9d28-40ea-9efb-cf2e42f530ca)
 
 Made with by SemiColon Geeks<3.
